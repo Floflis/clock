@@ -1,0 +1,3 @@
+- Update icon
+- Remove content.json
+- Test as FrameworkJS hybrid app
